@@ -21,8 +21,6 @@
 
 🙋 嗨，我是**小小强（Locus）**，一名拥有 5 年 Java 后端经验、正在全力转型 **AI Agent 开发**的工程师。
 
-📍 坐标：中国 &nbsp;|&nbsp; 🌐 博客：[saynice.cn](https://saynice.cn)
-
 🔭 当前专注于 **LangChain · LangGraph · RAG** 全链路落地，将工程化思维带入 LLM 应用开发。
 
 💡 座右铭：**危机意识 — 保持对技术的敬畏，永远在路上。**
