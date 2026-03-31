@@ -106,12 +106,17 @@ Java Backend (5yr) ────────────────────�
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-**🌐 Frontend & DevOps**
+**🌐 Frontend**
 
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**☁️ DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -120,12 +125,11 @@ Java Backend (5yr) ────────────────────�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codemaster1024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=F7B801&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster1024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&text_color=C9D1D9" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codemaster1024&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801)](https://github.com/codemaster1024)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codemaster1024&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801)](https://github.com/codemaster1024)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaster1024&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7B801&line=F7B801&point=FFFFFF&area=true)](https://github.com/codemaster1024)
 
 </div>
 
@@ -134,8 +138,6 @@ Java Backend (5yr) ────────────────────�
 ## 🌱 当前在学 / Currently Learning
 
 - 🤖 **LangGraph** — 多 Agent 状态机与复杂工作流编排
-- 📱 **SwiftUI** — iOS App 开发探索中
-- 🇯🇵 **日本語** — 长期目标，N3 冲刺中
 - ☁️ **Claude Code** — MCP 集成 & Agentic Coding 最佳实践
 
 ---
